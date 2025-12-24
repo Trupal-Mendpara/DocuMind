@@ -1,0 +1,30 @@
+[project]
+name = "documind"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "chromadb>=1.1.1",
+    "fitz>=0.0.1.dev2",
+    "flask>=3.1.2",
+    "ipykernel>=6.30.1",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.30",
+    "langchain-core>=0.3.78",
+    "langchain-google-genai>=2.1.12",
+    "langchain-groq>=0.3.8",
+    "langchain-huggingface>=0.3.1",
+    "langgraph>=0.6.8",
+    "matplotlib>=3.10.6",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pypdf>=6.1.1",
+    "pypdf2>=3.0.1",
+    "python-doctr[torch]>=1.0.0",
+    "python-dotenv>=1.1.1",
+    "sentence-transformers>=5.1.1",
+    "streamlit>=1.50.0",
+    "streamlit-mic-recorder>=0.0.8",
+]
