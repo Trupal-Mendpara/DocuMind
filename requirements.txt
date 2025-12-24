@@ -9,11 +9,12 @@ python-dotenv
 langgraph
 pandas
 python-doctr[torch]
+opencv-python-headless
+pypdf
 PyPDF2
 matplotlib
-langchain-core
-pypdf
 openpyxl
 beautifulsoup4
 streamlit-mic-recorder
+langchain-core
 langchain-groq
