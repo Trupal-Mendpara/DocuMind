@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 from langchain_groq import ChatGroq
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 
 @st.cache_resource
 def load_llm():

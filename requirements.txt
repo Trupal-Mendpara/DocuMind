@@ -16,3 +16,4 @@ pypdf
 openpyxl
 beautifulsoup4
 streamlit-mic-recorder
+langchain-groq
